@@ -1,0 +1,13 @@
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR!\bin\Debug\LR!.exe.config
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR!\bin\Debug\LR!.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR!\bin\Debug\LR!.pdb
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR!\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR!\obj\Debug\LR!.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR!\obj\Debug\LR!.pdb
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR1\bin\Debug\LR!.exe.config
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR1\bin\Debug\LR!.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR1\bin\Debug\LR!.pdb
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR1\obj\Debug\LR1.csprojAssemblyReference.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR1\obj\Debug\LR1.csproj.CoreCompileInputs.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR1\obj\Debug\LR!.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR1\obj\Debug\LR!.pdb
