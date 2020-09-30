@@ -1,0 +1,6 @@
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR3\bin\Debug\LR3.exe.config
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR3\bin\Debug\LR3.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR3\bin\Debug\LR3.pdb
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR3\obj\Debug\LR3.csproj.CoreCompileInputs.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR3\obj\Debug\LR3.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR3\obj\Debug\LR3.pdb
