@@ -1,0 +1,6 @@
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR7\bin\Release\LR7.exe.config
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR7\bin\Release\LR7.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR7\bin\Release\LR7.pdb
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR7\obj\Release\LR7.csproj.CoreCompileInputs.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR7\obj\Release\LR7.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR7\obj\Release\LR7.pdb
