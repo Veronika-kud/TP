@@ -1,0 +1,7 @@
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR10\bin\Debug\LR10.exe.config
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR10\bin\Debug\LR10.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR10\bin\Debug\LR10.pdb
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR10\obj\Debug\LR10.csprojAssemblyReference.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR10\obj\Debug\LR10.csproj.CoreCompileInputs.cache
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR10\obj\Debug\LR10.exe
+D:\флешка\ИМиИТ\2 курс\ТПрогр\LR10\obj\Debug\LR10.pdb
